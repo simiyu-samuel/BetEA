@@ -1,0 +1,20 @@
+<svg width="300" height="80" viewBox="0 0 300 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- BetEA White Logo - For Dark Backgrounds -->
+  
+  <!-- Background for preview (remove in production) -->
+  <rect width="300" height="80" fill="#1A1F2E"/>
+  
+  <!-- Icon -->
+  <g id="icon">
+    <circle cx="40" cy="40" r="30" fill="white"/>
+    <path d="M 28 48 L 40 25 L 52 48" stroke="#00A651" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M 40 25 L 40 55" stroke="#00A651" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="49" cy="31" r="3" fill="#FFB81C"/>
+  </g>
+  
+  <!-- Text -->
+  <g id="text">
+    <text x="85" y="52" font-family="Poppins, sans-serif" font-size="40" font-weight="700" fill="white">Bet</text>
+    <text x="165" y="52" font-family="Poppins, sans-serif" font-size="40" font-weight="700" fill="white">EA</text>
+  </g>
+</svg>

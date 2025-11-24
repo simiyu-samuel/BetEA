@@ -1,0 +1,36 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- BetEA Logo - Primary Version -->
+  
+  <!-- Background (for preview only) -->
+  <rect width="400" height="200" fill="white"/>
+  
+  <!-- Icon/Symbol - Rising Arrow integrated with 'E' -->
+  <g id="icon">
+    <!-- Outer circle -->
+    <circle cx="60" cy="100" r="35" fill="#00A651"/>
+    
+    <!-- Rising arrow/chevron -->
+    <path d="M 45 110 L 60 85 L 75 110" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M 60 85 L 60 115" stroke="white" stroke-width="6" stroke-linecap="round"/>
+    
+    <!-- Small star accent (winning moment) -->
+    <circle cx="72" cy="88" r="3" fill="#FFB81C"/>
+  </g>
+  
+  <!-- BetEA Text -->
+  <g id="wordmark">
+    <!-- "Bet" -->
+    <text x="110" y="115" font-family="Poppins, sans-serif" font-size="56" font-weight="700" fill="#1A1F2E">Bet</text>
+    
+    <!-- "EA" with accent color -->
+    <text x="210" y="115" font-family="Poppins, sans-serif" font-size="56" font-weight="700" fill="#00A651">EA</text>
+  </g>
+  
+  <!-- Tagline -->
+  <text x="110" y="140" font-family="Inter, sans-serif" font-size="12" font-weight="400" fill="#6B7280" letter-spacing="1">
+    EAST AFRICA'S BETTING PLATFORM
+  </text>
+  
+  <!-- Accent line under EA -->
+  <rect x="210" y="120" width="80" height="4" fill="#FFB81C" rx="2"/>
+</svg>
